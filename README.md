@@ -36,6 +36,7 @@ Kullanıcıadı: Deneme123
 
 ## SQL Script
 <https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/sikayet.sql>
+
 `Tablo Yapısı:`
 ![TabloYapısı](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/VeriTaban%C4%B1Tablo.png)
 
