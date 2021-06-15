@@ -33,6 +33,10 @@ Eğer kayıt olmak istemezseniz, üye girişi için bu bilgileri kullanarak şik
 Kullanıcıadı: Deneme123
 Şifre: 123456
 ```
+
+## SQL Script
+<https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/sikayet.sql>
+
 ## Ekran Görüntüleri Ve Yapılabilen İşlemler
 `Anasayfa ekran görüntüsü:`
 ![AnaSayfa](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Anasayfa.png)
