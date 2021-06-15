@@ -36,26 +36,36 @@ Kullanıcıadı: Deneme123
 ## Ekran Görüntüleri Ve Yapılabilen İşlemler
 `Anasayfa ekran görüntüsü:`
 ![AnaSayfa](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Anasayfa.png)
+
 `Kayıt Ol ekran görüntüsü:`
 ![KayıtOl](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Kay%C4%B1tOl.png)
+
 `Kullanıcı Girisi ekran görüntüsü:`
 ![KullanıcıGirisi](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Giris.png)
+
 `Profil bölümü kullanıcı bilgileri ekran görüntüsü:`
 Bu bölümde kullanıcı bilgilerini görebilir ve güncelleyebilirsiniz.
 ![KullanıcıBilgileri](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Kullan%C4%B1c%C4%B1Bilgileri.png)
+
 `Olusturduğunuz şikayetlerin ekran görüntüsü:`
 ![Sikayetlerim](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/Sikayetlerim.png)
+
 `Seçtiğiniz şikayeti güncelleyen ekran görüntüsü:`
 ![ŞikayetGüncelleme](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/SikayetG%C3%BCncelleme.png)
+
 `Admin girişi ekran görüntüsü:`
 ![AdminGiris](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/AdminGiris.png)
+
 `Admin paneli şirket ekleme ekran görüntüsü:`
 ![AdminSirketEkleme](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/AdminPaneliSirketEkle.png)
+
 `Admin paneli şirketleri listeleme ekran görüntüsü:`
 ![AdminSirketListele](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/AdminPaneliSirketListele.png)
+
 `Admin paneli şirketleri listeleme,silme ve güncelleme ekran görüntüsü:`
 Uyeler, şirketler hakkında o kadar şikayet oluşturmuş. O firma hakkındaki şikayetleri değerlendirmeden (Silmeden), şirketi silmeniz mümkün değildir. Bilerek böyle yapılmıştır.
 ![AdminSirketSilVeGüncelle](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/AdminPaneliSirketSilVeG%C3%BCncelle.png)
+
 `Admin paneli şikayetleri firma ismine göre listeleme ve silme ekran görüntüsü:`
 ![AdminSikayetListele](https://github.com/kaansertel/Online-Sikayet-Sistemi/blob/main/resimler/AdminPaneli%C5%9EikayetlerinFirmalaraG%C3%B6reListelenmesi.png)
 
