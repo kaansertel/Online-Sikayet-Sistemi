@@ -1,0 +1,154 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  
+  margin: 0;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.header a{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.header a:hover, .header:hover{
+  background-color: #FF8F00;
+  color: #260520;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(0, 157, 255);
+}
+
+li {
+  float:right;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #FF8F00;
+  color: #260520;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.satır {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+.alan {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background-color: rgb(240, 248, 255);
+  padding: 20px;
+}
+
+.ana {   
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+.img {
+  background-color: rgb(0, 255, 0);
+  padding: 20px;
+}
+
+
+.alt {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+@media screen and (max-width: 700px) {
+  .satır {   
+    flex-direction: column;
+  }
+}
+
+h2{
+  font-family:cursive;
+  font-size: 30px;   
+
+}
+.form{
+  width: 400px;
+  padding: 10px;
+  border: 4px solid rgb(0, 0, 0);
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #07c5769a;   
+
+}
+
+.form input {
+  padding: 10px;
+  width: 200px;
+  margin-top: 10px;
+  border-radius : 30px;
+  font-style: italic; 
+}
+.form textarea {
+  padding: 10px;
+  width: 200px;
+  margin-top: 10px;
+  border-radius : 30px;
+  font-style: italic; 
+}
+
+.buton{
+  background-color:#245eaa;
+  color :#fff;
+  font-style: normal;
+
+}
+
+.baglan:link, .baglan:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.baglan:hover, .baglan:active {
+  background-color: red;
+  font-weight: bold;
+}
+
+
